@@ -7,4 +7,5 @@ export default {
         'text-green-600',
         'text-red-600'
     ],
+    important: true,
 }
